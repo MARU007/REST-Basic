@@ -57,7 +57,7 @@ Please create a RESTful API which will be able to
 
 • Delete a user – POST
 
-This API must use the EntityFramework
+**This API must use the EntityFramework**
 
 
 
